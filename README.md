@@ -9,7 +9,7 @@ This repository hosts an ongoing speculative framework that explores a unified, 
 
 ### Live Page
 The full working draft is available here:  
-**[View the Thought Experiment](https://yourusername.github.io/omniverse-matrix/)**  
+**[View the Thought Experiment](https://TheStrangest1.github.io/omniverse-matrix/)**  
 *(Replace `yourusername` with your actual GitHub username after enabling GitHub Pages)*
 
 ### Current Structure
