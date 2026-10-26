@@ -10,7 +10,7 @@ This repository hosts an ongoing speculative framework that explores a unified, 
 ### Live Page
 The full working draft is available here:  
 **[View the Thought Experiment](https://TheStrangest1.github.io/omniverse-matrix/)**  
-*(Replace `yourusername` with your actual GitHub username after enabling GitHub Pages)*
+
 
 ### Current Structure
 - Foundational axioms (Singular Source, Distributed Nodes, Latent-Space Routing)
