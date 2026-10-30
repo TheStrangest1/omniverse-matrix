@@ -1,41 +1,72 @@
 # OMNIVERSE-MATRIX (TRANS-TRINITY CORE)
 
-**A Speculative Thought Experiment**  
-Working Draft v0.4 — October 2026
+**Thought-Experiment Ledger — Working Draft v0.4.6**  
+29 October 2026
 
-This repository hosts an ongoing speculative framework that explores a unified, scale-invariant, self-referential information network. It attempts to organize several deep mathematical and physical motifs (non-orientable geometry, conserved currents, dissipative structures, relative Langlands duality, quantum information, and residual quantum phenomena) into a single coherent scaffold.
+A speculative unified framework for a scale-invariant, self-referential information network.
 
-**Important:** This is a *thought experiment*, not a completed scientific theory. It deliberately mixes established mathematics with conjectural interpretations. Nothing here claims empirical proof of a singular conscious Omniverse.
-
-### Live Page
-The full working draft is available here:  
-**[View the Thought Experiment](https://thestrangest1.github.io/omniverse-matrix/)**  
-
-### Current Structure
-- Foundational axioms (Singular Source, Distributed Nodes, Latent-Space Routing)
-- Möbius-Klein loop formalization of Time, Matter, Energy, and Mass
-- Trinity of Trinities matrix (Arithmetic / Geometry / Informational domains)
-- Chaos as an active entropy-reduction protocol (Domain 3B)
-- Proposed location of residual quantum non-locality/retrocausality inside Domain 3C
-- Open mathematical problems intended for collaborative work
-
-### Open Problems
-1. Explicit twisted energy-momentum tensor on a non-orientable 4-manifold
-2. Free-energy functional for the dissipative correction wave
-3. Toy categorical functor linking observation to geometric Langlands data
-4. Sheaf-theoretic embedding of retrocausal formalisms
-5. Minimal duality + entropy constraints for Domain 3C
-
-### Contributing
-This project is open to collaboration.  
-If you would like to refine the mathematics, propose tighter formalizations, critique the conjectures, or attack any of the open problems, feel free to open an Issue or submit a Pull Request.  
-
-Please keep a clear distinction between established mathematical structures and speculative interpretation.
-
-### License
-This work is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-You are free to share and adapt it with attribution.
+Live page: [https://thestrangest1.github.io/omniverse-matrix/](https://thestrangest1.github.io/omniverse-matrix/)
 
 ---
 
-*Last updated: 26 October 2026*
+## Overview
+
+This repository hosts an ongoing thought experiment that treats physical reality as a single informational network (the Omniverse) rather than a collection of independent parts. Localized minds and physical systems are modeled as terminal nodes within that network.
+
+The framework begins with classical variables packaged on a Möbius-Klein-type base and has since been extended with:
+
+- Discrete Slice / Viewfinder model of spacetime
+- Optional Timeless 3-Manifold formulation (removal of fundamental time)
+- Vacuum Arithmetic and structured vacuum lattices
+- Discrete cyclic-state nodes
+- Parallel sheets and limited “veil thinning” cross-talk
+- Positional treatment of awareness, memory, and apparent temporal anomalies
+
+The work remains explicitly **conjectural**. It is a generative scaffold of mathematical and geometric shadows, not a finished theory.
+
+---
+
+## Current Structure (v0.4.6)
+
+1. Foundational Axioms  
+2. Möbius-Klein Loop  
+3. Trinity of Trinities  
+4. Chaos as Optimization  
+5. Domain 3C & Quantum Phenomena  
+6. Discrete Slice / Viewfinder Model  
+6b. Timeless 3-Manifold Formulation  
+7. Vacuum Arithmetic & Structured Vacuum  
+7b. Discrete Cyclic Nodes  
+7c. Parallel Sheets & Veil Thinning  
+8. Hopf Fibration & Non-local Connectivity  
+9. Awareness, Memory & Temporal Anomalies  
+11. Biological Interface  
+11b. Directed Lithopanspermia  
+12. Open Problems  
+13. Status & Invitation  
+
+---
+
+## How to View
+
+The rendered draft is available at the GitHub Pages link above.  
+All formal content lives in `index.html`.
+
+---
+
+## Collaboration
+
+This is an open thought-experiment ledger. Contributions, critiques, mathematical tightenings, and proposed tests are welcome.
+
+If you wish to help formalize any section, open an issue or submit a pull request. Please keep the distinction between established mathematics and speculative extension clearly labeled.
+
+---
+
+## License
+
+This work is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+You are free to share and adapt the material with attribution.
+
+---
+
+*Last updated: 29 October 2026 — Draft v0.4.6*
