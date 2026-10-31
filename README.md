@@ -1,6 +1,6 @@
 # OMNIVERSE-MATRIX (TRANS-TRINITY CORE)
 
-**Thought-Experiment Ledger — Working Draft v0.4.7**  
+**Thought-Experiment Ledger — Working Draft v0.4.8**  
 30 October 2026
 
 A speculative unified framework for a scale-invariant, self-referential information network.
@@ -13,10 +13,10 @@ Live page: [https://thestrangest1.github.io/omniverse-matrix/](https://thestrang
 
 This repository hosts an ongoing thought experiment that treats physical reality as a single informational network (the Omniverse) rather than a collection of independent parts. Localized minds and physical systems are modeled as terminal nodes within that network.
 
-The framework begins with classical variables on a Möbius-Klein-type base and has been extended with discrete and relational structures, including:
+The primary geometric substrate is a timeless 3-manifold (or configuration space of 3-geometries) that may carry an internal orientation-reversing monodromy. Time is not a fundamental coordinate. The three working local variables (Matter, Energy, Mass) may themselves be read as one line of a larger 3×3 array.
 
-- Discrete Slice / Viewfinder model of spacetime
-- Optional Timeless 3-Manifold formulation (removal of fundamental time)
+Supporting constructions include:
+- Discrete Slice / Viewfinder model (local approximation)
 - Vacuum Arithmetic and structured vacuum lattices
 - Discrete cyclic-state nodes
 - Parallel sheets and limited “veil thinning” cross-talk
@@ -29,13 +29,14 @@ The work remains explicitly **conjectural**. It is a generative scaffold of math
 
 ---
 
-## Current Structure (v0.4.7)
+## Current Structure
 
 - Abstract  
 - 1. Foundational Axioms  
-- 2. Möbius-Klein Loop  
+- 2. Möbius-Klein Structure  
 - 2b. The 1369 / 37 Möbius Flip  
 - 2c. Double Klein Bottle  
+- 2d. Variables as a Trinity of Trinities (Exploratory)  
 - 3. Trinity of Trinities  
 - 4. Chaos as Optimization  
 - 5. Domain 3C & Quantum Phenomena  
@@ -78,4 +79,4 @@ You are free to share and adapt the material with attribution.
 
 ---
 
-*Last updated: 30 October 2026 — Draft v0.4.7*
+*Last updated: 30 October 2026 — Draft v0.4.8*
