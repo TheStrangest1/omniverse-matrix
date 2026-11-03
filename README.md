@@ -7,6 +7,28 @@ A speculative unified framework for a scale-invariant, self-referential informat
 
 Live page: [https://thestrangest1.github.io/omniverse-matrix/](https://thestrangest1.github.io/omniverse-matrix/)
 
+**Latest research checkpoint:** [Stage 3 Research Progress](stage-3-research-progress.md) (2 November 2026)
+
+---
+
+## Current Status
+
+- **Working architecture:** Three fundamental physical variables — Matter, Energy, Mass.  
+  Time is not treated as a fourth fundamental variable; temporal succession is under investigation as emergent/relational.
+- **Historical manuscript:** Working Draft v0.4.8 (30 October 2026) remains available as historical material in `index.html`.
+- **Stage 3 research:** Questions 1–4 completed. Manuscript unchanged by the Stage 3 investigations.
+
+### Stage 3 Foundations (research only)
+
+1. **Timeless containment** — A fixed mathematical structure can contain multiple configurations or complete histories without itself evolving.
+2. **Non-permanent splits** — Alternative configurations need not remain permanently separated.
+3. **Null-configuration possibility** — Absence of localized Matter, Energy, and Mass need not imply absence of underlying structure (explicit construction open).
+4. **Multi-node overlap** — Multiple nodes can access overlapping or distinct configurations within one shared structure.
+
+**Central open problem:**  
+We can describe how multiple nodes may access a shared structure, but we have not yet explained what governs that access.  
+(The localization rule — next research focus.)
+
 ---
 
 ## Overview
@@ -25,7 +47,7 @@ Supporting constructions include:
 - Positional treatment of awareness, memory, and apparent temporal anomalies
 - Brain-as-radio transceiver model of consciousness
 
-The work remains explicitly **conjectural**. It is a generative scaffold of mathematical and geometric shadows, not a finished theory.
+The work remains explicitly **conjectural**. It is a generative scaffold of mathematical and geometric shadows, not a finished theory. Mathematical structures examined are not the same as physical laws established.
 
 ---
 
@@ -60,7 +82,8 @@ The work remains explicitly **conjectural**. It is a generative scaffold of math
 ## How to View
 
 The rendered draft is available at the GitHub Pages link above.  
-All formal content lives in `index.html`.
+All formal content of the historical working draft lives in `index.html`.  
+The Stage 3 research checkpoint is in `stage-3-research-progress.md`.
 
 ---
 
@@ -79,4 +102,4 @@ You are free to share and adapt the material with attribution.
 
 ---
 
-*Last updated: 30 October 2026 — Draft v0.4.8*
+*Last updated: 2 November 2026 — Stage 3 research checkpoint added; historical draft v0.4.8 retained.*
