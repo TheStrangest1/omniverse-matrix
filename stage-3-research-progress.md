@@ -2,7 +2,7 @@
 
 **Research checkpoint** | 2 November 2026  
 **Status:** Stage 3, Questions 1–4 completed  
-**Manuscript:** unchanged (historical working draft remains v0.4.7)
+**Manuscript:** unchanged (historical working draft remains v0.4.8)
 
 ## Current framework architecture
 
